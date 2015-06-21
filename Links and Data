@@ -1,2 +1,12 @@
 http://www.cs.utoronto.ca/~kriz/cifar.html
 
+60000 Images
+32*32 color image
+
+10 classes
+6000 images per class
+
+
+Each Batch
+['data', 'labels', 'batch_label', 'filenames']
+
